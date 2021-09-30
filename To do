@@ -1,0 +1,6 @@
+Fix LSTM
+Improve ARIMA
+Try Random forest?
+Predict all data series independently with LSTM, improve with MLP due to correlation?
+Extracting Convolutional features with dialeted kernels 
+LSTM with convolution (10,3) can be better?
